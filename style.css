@@ -1,0 +1,36 @@
+body{
+    background-color: #5cceee;
+    font-family: sans-serif;
+    text-align: center;
+    }
+
+header h2{
+        color: #ffffff;
+    }
+
+p{color: white}
+
+div a button{
+    color:#ffffff;
+    display: inline-block;
+    background-color: #2387a2;
+    border-radius: 5px;
+    width: 100px;
+    height: 35px;
+}
+
+ul{
+    text-align: center;
+    list-style: none;
+    }
+    
+ul li{
+    display: inline-block;
+    }
+    
+ul li a img{
+        width: 50px;
+        margin: 10px;
+    }
+
+    
